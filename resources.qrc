@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/hamburger_logo.png</file>
+        <file>assets/pig_bun.ico</file>
+        <file>assets/cute_pig_bun.png</file>
+        <file>assets/cute_pig_bun35.png</file>
+    </qresource>
+</RCC>
